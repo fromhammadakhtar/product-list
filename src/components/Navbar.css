@@ -1,0 +1,22 @@
+.navlinks {
+  margin-left: 5px;
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  width: 200px;
+}
+.link {
+  text-decoration: none;
+  color: #151515;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.link:hover {
+  border-bottom: 1px solid #151515;
+}
